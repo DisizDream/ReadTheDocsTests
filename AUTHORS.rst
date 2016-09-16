@@ -1,7 +1,8 @@
 Authors
 -------
 
-* Eric (New contributor)
-* Anthony 
+* Rémi
+* Mark
+* Jérôme
 
 
