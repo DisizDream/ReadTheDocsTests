@@ -14,26 +14,6 @@ Contents:
 
    *
 
-Viewer
-====
-
-* Overview
-* Console documentation
-* Camera documentation
-* Light documentation
-* Legacy animation documentation
-* Material documentation
-* Render documentation
-* Particles documentation
-* Command line & Hotkeys
-* Shortcut Service
-* Shortcuts
-* Settings
-* Camera features
-* Picker features
-* Project manager
-* License information
-
 Indices and tables
 ==================
 
