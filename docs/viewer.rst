@@ -4,7 +4,7 @@ Viewer
 Overview
 ----
 
-![Unity](https://docs.unity3d.com/uploads/Main/NewEmptyScene.png)
+![stack Overflow](http://lmsotfy.com/so.png)
 
 Console documentation
 ----
