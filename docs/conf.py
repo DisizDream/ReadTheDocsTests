@@ -196,7 +196,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  ('index', 'ReadtheDocsTemplate.tex', u'Read the Docs Template Documentation',
+  ('index', 'ReadtheDocsTemplate.tex', u'L1ght Engine Documentation',
    u'Read the Docs', 'manual'),
 ]
 
