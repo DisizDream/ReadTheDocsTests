@@ -8,7 +8,7 @@ Scenes contain the objects of your game. They can be used to create a main menu,
 
 .. image:: https://docs.unity3d.com/uploads/Main/NewEmptyScene.png
 
-  -- A new empty scene, with the default 3D objects - a camera and a directional light.
+*A new empty scene, with the default 3D objects - a camera and a directional light.*
 
 When you create a new Unity project, your scene view will show a new Scene. This is an untitled and unsaved scene. The scene will be empty except for defult objects - either an orthographic camera, or a perspective camera and a directional light, depending on whether you started the project in 2D or 3D mode.
 
