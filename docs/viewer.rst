@@ -3,7 +3,7 @@ Scenes
 
 Scenes contain the objects of your game. They can be used to create a main menu, individual levels, and anything else. Think of each unique Scene file as a unique level. In each Scene, you will place your environments, obstacles, and decorations, essentially designing and building your game in pieces.
 
-.. image:: https://docs.unity3d.com/uploads/Main/NewEmptyScene.png
+.. image:: images/NewEmptyScene.png
 
 *A new empty scene, with the default 3D objects - a camera and a directional light.*
 
@@ -16,7 +16,7 @@ To save the scene you’re currently working on, choose File > Save Scene from t
 
 Scenes are saved as assets, into your project’s Assets folder. Therefore they appear in the Project Window, just like any other asset.
 
-.. image:: https://docs.unity3d.com/uploads/Main/SceneAssetsInProjectView.png
+.. image:: images/SceneAssetsInProjectView.png
 
 *Some scene assets, saved and visible in the project view*
 
