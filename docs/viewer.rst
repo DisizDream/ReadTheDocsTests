@@ -18,7 +18,7 @@ Scenes are saved as assets, into your project’s Assets folder. Therefore they 
 
 .. image:: https://docs.unity3d.com/uploads/Main/SceneAssetsInProjectView.png
 
-*Some scene assets, saved and visible in the project view
+*Some scene assets, saved and visible in the project view*
 
 Opening Scenes
 ----
