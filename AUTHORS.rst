@@ -1,8 +1,0 @@
-Authors
--------
-
-* Rémi
-* Mark
-* Jérôme
-
-
