@@ -4,7 +4,7 @@ Viewer
 Overview
 ----
 
-![alt text](https://docs.unity3d.com/uploads/Main/NewEmptyScene.png "Unity")
+![Unity](https://docs.unity3d.com/uploads/Main/NewEmptyScene.png)
 
 Console documentation
 ----
