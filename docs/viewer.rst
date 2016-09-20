@@ -1,9 +1,6 @@
 Scenes
 ====
 
-Scenes
-----
-
 Scenes contain the objects of your game. They can be used to create a main menu, individual levels, and anything else. Think of each unique Scene file as a unique level. In each Scene, you will place your environments, obstacles, and decorations, essentially designing and building your game in pieces.
 
 .. image:: https://docs.unity3d.com/uploads/Main/NewEmptyScene.png
