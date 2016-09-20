@@ -4,6 +4,8 @@ Viewer
 Overview
 ----
 
+![alt text](https://docs.unity3d.com/uploads/Main/NewEmptyScene.png "Unity")
+
 Console documentation
 ----
 
