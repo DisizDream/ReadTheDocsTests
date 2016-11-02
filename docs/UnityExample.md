@@ -4,6 +4,8 @@
 
 modif from StackEdit
 
+modif from Prose.io
+
 .. image:: images/ProjectWindowCallout.png
 
 In this view, you can access and manage the assets that belong to your project.
