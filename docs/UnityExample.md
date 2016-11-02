@@ -2,6 +2,8 @@
 
 ## The Project Window
 
+modif from StackEdit
+
 .. image:: images/ProjectWindowCallout.png
 
 In this view, you can access and manage the assets that belong to your project.
