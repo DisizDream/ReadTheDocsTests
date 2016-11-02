@@ -1,5 +1,7 @@
 # Markdown in Sphinx
 
+modif on Dillinger
+
 While Read the Docs allows us to use Sphinx or Mkdocs to generate the documentation, I concluded after many tests that it's better to use Sphinx. Mkdocs handling is a latter addition and is not perfectly supported, I encountered many issues and some functionnalities are disabled when using it.
 
 But Markdown is still an easier and more popular format than Sphinx's reStructuredText.
@@ -28,11 +30,11 @@ But with CommonMark we would have to write HTML code to have the same result (an
 
 ```
 <table>
-  <tr>
-    <th>Tables</th>
-    <th>Are</th>
-    <th>Cool</th>
-  </tr>
+B  <tr>
+B B B  <th>Tables</th>
+B B B  <th>Are</th>
+B B B  <th>Cool</th>
+B  </tr>
   <tr>
     <td>value 1</td>
     <td>value 2</td>
