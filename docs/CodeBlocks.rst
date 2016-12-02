@@ -1,3 +1,6 @@
+Code Block
+==========
+
 .. code-block:: ruby
 
    # Get the parts of speech.
