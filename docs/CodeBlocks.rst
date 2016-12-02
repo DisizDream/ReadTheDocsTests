@@ -22,3 +22,16 @@ Code Block
    printf(handle, "%s got a %s and\n%s %s around the block.\n",
         prop_noun, noun, verb, adv)
    handle.close
+
+
+.. code-block:: cpp
+
+   #include<iostream>
+
+   using namespace std;
+   int main()
+   {
+       int a = 3, b = 5;
+       cout << a << '+' << b << '=' << (a+b);
+       return 0;
+   }
